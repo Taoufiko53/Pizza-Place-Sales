@@ -62,7 +62,7 @@ A pizza restaurant wants a visual and interactive way to:
 
 ## 📷 Dashboard Preview  
 🖼️ Dashboard Screenshot  
-![Dashboard Screenshot](./Images/dashboard_preview.png)  
+![Dashboard Screenshot](./images/dashboard.png)  
 
 👉 [Download the Power BI file](./PowerBI/PizzaPlaceSales.pbix)  
 
