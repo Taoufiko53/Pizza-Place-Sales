@@ -1,7 +1,7 @@
 # Pizza-Place-Sales
 Power BI Data Analytics Project – Cleaning and Dashboarding
 
-## 📌 Project Overview  
+## Project Overview  
 This is a Data Analytics project built with **Microsoft Power BI**. The purpose is to demonstrate my ability to:  
 
 - Clean and prepare raw sales data  
@@ -9,11 +9,11 @@ This is a Data Analytics project built with **Microsoft Power BI**. The purpose 
 - Build a dynamic and interactive dashboard  
 - Deliver insights to support business decisions  
 
-🟨 This project focuses on **business insights and dashboarding** rather than predictive analytics.  
+==> This project focuses on **business insights and dashboarding** rather than predictive analytics.  
 
 ---
 
-## 📁 About the Data  
+## About the Data  
 The dataset represents one year of sales from a fictitious pizza place. It includes:  
 
 - Order date and time  
@@ -35,7 +35,7 @@ Cleaned & Enriched:
 
 ---
 
-## 📊 Dashboard Features  
+## Dashboard Features  
 **Slicers and Filters:**  
 - Pizza Category  
 - Pizza Size  
@@ -50,7 +50,7 @@ Cleaned & Enriched:
 
 ---
 
-## 🧩 Use Case  
+## Use Case  
 A pizza restaurant wants a visual and interactive way to:  
 
 - Track total revenue and number of orders  
@@ -60,30 +60,22 @@ A pizza restaurant wants a visual and interactive way to:
 
 ---
 
-## 📷 Dashboard Preview  
-🖼️ Dashboard Screenshot  
+## Dashboard Preview  
+  
 ![Dashboard Screenshot](Dashboard%20pizza%20screenshot.png)  
 
 👉 [Download the Power BI file](./PowerBI/PizzaPlaceSales.pbix)  
 
 ---
 
-## 🛠️ Tools Used  
+##  Tools Used  
 - Microsoft Power BI (Data modeling, DAX, Visualization)  
-- Excel/CSV (Data preparation)  
+- Power Query (Data preparation)  
 - GitHub (Project hosting and documentation)  
 
 ---
 
-## 📂 Files in this Repository  
-- `/Data/pizza_sales.csv` → original dataset (from Maven Analytics)  
-- `/PowerBI/PizzaPlaceSales.pbix` → Power BI dashboard file  
-- `/Images/dashboard_preview.png` → screenshot of the dashboard  
-- `README.md` → this file  
-
----
-
-## 👤 Author  
+## Author  
 **Taoufik Oulahcen**  
 Data Analyst | Power BI | Excel | SQL  
 Morocco  
